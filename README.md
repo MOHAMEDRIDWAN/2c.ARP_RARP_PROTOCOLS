@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+# NAME : MOHAME DRIDWAN A
+# REG NO : 212223110030
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
